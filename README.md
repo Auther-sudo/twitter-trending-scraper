@@ -2,7 +2,6 @@
 
 > 面向**境外社交平台**的关键词定向数据采集工具，支撑跨境舆情 / 国际传播研究；配置本地保存、不含账号凭据。
 
-![Type](https://img.shields.io/badge/Type-Interview%20Portfolio-9cf)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Scweet%20%2B%20Excel-green)
 ![Privacy](https://img.shields.io/badge/Privacy-%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AE-success)
@@ -43,9 +42,3 @@ python scweet_bot.py
 
 - 不含任何账号凭据；`keywords.txt` 仅含你的检索词，可放心随仓库分发。
 - 抓取为公开数据检索，不进行登录态凭据存储。
-
-## 👤 关于本仓库
-
-本仓库是 **Auther-sudo** 的面试作品集之一，展示**跨境舆情数据采集**的工程实践。
-
-> 欢迎在 GitHub 主页查看更多作品：[@Auther-sudo](https://github.com/Auther-sudo)
